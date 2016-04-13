@@ -1,0 +1,16 @@
+2016-04-13 14:40:07 [com.hts.xyl.test.TestClass:14] - info
+2016-04-13 17:34:33 [org.apache.shiro.cache.ehcache.EhCacheManager:170] - Using existing EHCache named [passwordRetryCache]
+2016-04-13 17:34:33 [org.apache.shiro.realm.AuthorizingRealm:248] - No cache or cacheManager properties have been set.  Authorization cache cannot be obtained.
+2016-04-13 17:34:33 [org.apache.shiro.cache.ehcache.EhCacheManager:170] - Using existing EHCache named [authenticationCache]
+2016-04-13 17:34:33 [org.apache.shiro.cache.ehcache.EhCacheManager:170] - Using existing EHCache named [authorizationCache]
+2016-04-13 17:34:34 [org.apache.shiro.session.mgt.AbstractValidatingSessionManager:246] - Disabled session validation scheduler.
+2016-04-13 17:35:42 [org.apache.shiro.cache.ehcache.EhCacheManager:170] - Using existing EHCache named [passwordRetryCache]
+2016-04-13 17:35:42 [org.apache.shiro.realm.AuthorizingRealm:248] - No cache or cacheManager properties have been set.  Authorization cache cannot be obtained.
+2016-04-13 17:35:42 [org.apache.shiro.cache.ehcache.EhCacheManager:170] - Using existing EHCache named [authenticationCache]
+2016-04-13 17:35:42 [org.apache.shiro.cache.ehcache.EhCacheManager:170] - Using existing EHCache named [authorizationCache]
+2016-04-13 17:35:43 [org.apache.shiro.session.mgt.AbstractValidatingSessionManager:230] - Enabling session validation scheduler...
+2016-04-13 17:35:43 [net.sf.ehcache.util.UpdateChecker:98] - New update(s) found: 2.6.5 [http://www.terracotta.org/confluence/display/release/Release+Notes+Ehcache+Core+2.6]. Please check http://ehcache.org for the latest version.
+2016-04-13 17:35:43 [org.apache.shiro.cache.ehcache.EhCacheManager:170] - Using existing EHCache named [shiro-activeSessionCache]
+2016-04-13 17:35:43 [org.apache.shiro.session.mgt.AbstractValidatingSessionManager:271] - Validating all active sessions...
+2016-04-13 17:35:43 [org.apache.shiro.session.mgt.AbstractValidatingSessionManager:304] - Finished session validation.  No sessions were stopped.
+2016-04-13 17:35:43 [org.apache.shiro.session.mgt.AbstractValidatingSessionManager:246] - Disabled session validation scheduler.
